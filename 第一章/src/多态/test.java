@@ -35,10 +35,9 @@ class keyBoard implements usb{
 
 class computer{
     public void powerOn() {
-
+        System.out.println("xiaoxie");
     }
     public void powerOff() {
-
     }
     public void openDevice(usb device){
         device.powerOn();
