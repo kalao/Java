@@ -38,6 +38,7 @@ class computer{
         System.out.println("xiaoxie");
     }
     public void powerOff() {
+        System.out.println("xiaoxie又写了");
     }
     public void openDevice(usb device){
         device.powerOn();
